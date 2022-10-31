@@ -1,0 +1,20 @@
+Welcome to "MP3 AlbumArt Editor"
+
+This program allows you to change a song's or a song folder's album art.
+
+Buttons :
+"Choose Folder" : Allows you to select a folder and convert all the songs in it.
+"Choose Song" : Allows you to select a specific mp3 file and convert it.
+"Choose Image" : Allows you to select a specific image that you want to set as album art 
+of the song or the songs you selected (depends on the choice you made in the previous buttons).
+
+Note :
+If you don't select an image by your own, then the program will search for an album art image 
+in Google Images. Album art image will be searched in Google based on the specific song name.
+
+Installation :
+If the program don't work, then you may need to install the following :
+"pip install eyed3"
+
+Requirements :
+python v3.* (preferably the latest version)
